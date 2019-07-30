@@ -1,7 +1,7 @@
-package Utils;
+package com.hgy.utils;
 
-import Bean.Email;
-import Bean.Employee;
+import com.hgy.beans.Email;
+import com.hgy.beans.Employee;
 
 public class EmailUtil {
     public static boolean sendEmailToAEmployee(Employee employee) {

@@ -1,4 +1,4 @@
-package Utils;
+package com.hgy.utils;
 
 import org.junit.Test;
 

@@ -1,7 +1,7 @@
-package Main;
+package com.hgy.main;
 
-import Utils.Constant;
-import Utils.FileUtil;
+import com.hgy.utils.Constant;
+import com.hgy.utils.FileUtil;
 
 import java.util.concurrent.BlockingQueue;
 

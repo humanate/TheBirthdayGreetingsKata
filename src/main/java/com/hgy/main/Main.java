@@ -1,4 +1,4 @@
-package Main;
+package com.hgy.main;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
@@ -12,7 +12,7 @@ public class Main {
         producer.start();
 
         UserFilter userFilter = new UserFilter(queue);
-        Thread comsumer = new Thread(userFilter);
-        comsumer.start();
+        Thread consumer = new Thread(userFilter);
+        consumer.start();
     }
 }

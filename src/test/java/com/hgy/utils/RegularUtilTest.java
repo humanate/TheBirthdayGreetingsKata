@@ -1,7 +1,6 @@
-package Utils;
+package com.hgy.utils;
 
-import Bean.Email;
-import Bean.Employee;
+import com.hgy.beans.Employee;
 
 import static org.junit.Assert.*;
 

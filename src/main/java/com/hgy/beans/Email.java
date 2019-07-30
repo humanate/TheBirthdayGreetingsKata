@@ -1,4 +1,4 @@
-package Bean;
+package com.hgy.beans;
 
 public class Email {
     private String subject;

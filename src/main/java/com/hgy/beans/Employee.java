@@ -1,4 +1,4 @@
-package Bean;
+package com.hgy.beans;
 
 import java.util.Calendar;
 

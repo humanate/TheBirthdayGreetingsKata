@@ -1,4 +1,4 @@
-package Utils;
+package com.hgy.utils;
 
 public class Constant {
     public static int MONTH_OF_TODAY = 9;

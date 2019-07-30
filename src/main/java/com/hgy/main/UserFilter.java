@@ -1,8 +1,8 @@
-package Main;
+package com.hgy.main;
 
-import Bean.Employee;
-import Utils.EmailUtil;
-import Utils.RegularUtil;
+import com.hgy.beans.Employee;
+import com.hgy.utils.EmailUtil;
+import com.hgy.utils.RegularUtil;
 
 import java.util.concurrent.BlockingQueue;
 
